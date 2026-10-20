@@ -18,6 +18,7 @@ InfinitX Labs explores privacy, digital freedom and open information access thro
 ## Public projects
 
 - [cve-fieldgate](https://github.com/infinitxlabs/cve-fieldgate): an external acceptance test for automated fill-ins on public vulnerability records, with pre-registered gates and a dry-run prediction ledger.
+- [revokecheck-spike](https://github.com/infinitxlabs/revokecheck-spike): three revocation cases for the p2panda-auth group library, each run in every delivery order that respects the operations' dependencies; a feasibility check before a larger study, under EUPL-1.2.
 
 Contact: info@infinitxlabs.ca | Website: https://infinitxlabs.ca/
 
