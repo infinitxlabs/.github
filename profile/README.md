@@ -7,7 +7,7 @@
 
 # InfinitX Labs Inc.
 
-InfinitX Labs explores privacy, digital freedom and open information access through software research. Focus areas include local-first tools, open-source methods and privacy engineering. Repository code must not be treated as a security guarantee or independently certified service.
+InfinitX Labs explores privacy, digital freedom and open information access through software research. Its first public release, FieldGate, tested whether a fixed rule can fill missing fields in public vulnerability records while keeping disagreement with reference labels under 5 percent; on the 2026-10-11 NVD snapshot, none could. Focus areas include local-first tools, open-source methods and privacy engineering. Repository code must not be treated as a security guarantee or independently certified service.
 
 ## Open by design
 
@@ -15,6 +15,10 @@ InfinitX Labs explores privacy, digital freedom and open information access thro
 
 **Our own work, and only ours.** Everything we publish here will be our own, built from public data and synthetic examples. It will never include client data, client projects, or anyone else's confidential information or intellectual property.
 
-How we work: our code and documentation are written with AI coding assistants and reviewed, tested and revised by Amir Daneshpajouh; open-source parts made by others are credited where used.
+## Public projects
+
+- [cve-fieldgate](https://github.com/infinitxlabs/cve-fieldgate): an external acceptance test for automated fill-ins on public vulnerability records, with pre-registered gates and a dry-run prediction ledger.
 
 Contact: info@infinitxlabs.ca | Website: https://infinitxlabs.ca/
+
+Our code and documentation are written with AI coding assistants under the direction of Amir Daneshpajouh, and checked by their tests and an AI-assisted release check before publication; open-source parts made by others are credited where used.
